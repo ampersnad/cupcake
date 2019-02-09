@@ -37,7 +37,15 @@ li.flashy.best {
 	font-style: italic;
 }
 
-.btn {
-	align: center;
+.dark-background {
+	background-color: #4a4a4a;
+}
+
+.light-background {
+	background-color: white;
 	
+}
+
+#night-mode-off {
+	margin-top: 5px;
 }
